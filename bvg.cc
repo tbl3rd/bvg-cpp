@@ -77,7 +77,7 @@ struct BitVector
 
 
 // A population of BitVectors initialized from the stream s.
-// There is a problem with error on line *this is false.
+// There is a problem with error on line when *this is false.
 //
 struct Population
 {
